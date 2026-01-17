@@ -1,0 +1,40 @@
+}
+
+.video-contenedor {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.video-contenedor video {
+  width: 70%;
+  max-width: 900px;
+  height: auto;
+}
+
+
+h1, h2{
+    text-align: center;
+}
+
+h1 {
+   color: #1e40af; 
+}
+
+h2 {
+   color: #2563eb;  
+
+}
+
+footer {
+  background-color: #808080;
+  color: white;
+  text-align: center;
+  padding: 15px;
+  margin-top: 50px;
+  font-size: 14px;
+}
+
+html, body {
+  height: 100%;
+  margin: 0;
+
